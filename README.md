@@ -88,9 +88,4 @@ To build a reliable binary classification model that can identify manipulated or
 
 ---
 
-## 📬 Contact
 
-Created by **[Your Name]**  
-📧 [Your Email]  
-🔗 [LinkedIn Profile]  
-🔗 [GitHub Profile]
